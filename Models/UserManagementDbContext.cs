@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace PortfolioApiSolution.Models;
+namespace CrudApiSolution.Models;
 
 public partial class UserManagementDbContext : DbContext
 {

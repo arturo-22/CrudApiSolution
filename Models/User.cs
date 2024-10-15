@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace PortfolioApiSolution.Models;
+namespace CrudApiSolution.Models;
 
 public partial class User
 {

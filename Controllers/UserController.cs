@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using PortfolioApiSolution.Models;
+using CrudApiSolution.Models;
 
-namespace PortfolioApiSolution.Controllers
+namespace CrudApiSolution.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

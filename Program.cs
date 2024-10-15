@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using PortfolioApiSolution.Models;
+using CrudApiSolution.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
