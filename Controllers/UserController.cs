@@ -87,7 +87,7 @@ namespace CrudApiSolution.Controllers
  
         }
 
-        [HttpGet]
+        [HttpDelete]
         [Route("Delete/{id:int}")]
 
         public async Task<IActionResult> Delete(int id)
